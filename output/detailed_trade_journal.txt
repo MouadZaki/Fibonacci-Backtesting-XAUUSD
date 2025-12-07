@@ -1,0 +1,684 @@
+
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                              FIBONACCI BACKTEST - DETAILED TRADE JOURNAL (COMPLETE)                                          ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
+Report Generated: 2025-12-07 10:34:39
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+SUMMARY METRICS:
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+├─ Total Trades: 72
+├─ Winning Trades: 44 (61.1%)
+├─ Losing Trades: 22 (30.6%)
+├─ Open Trades: 6 (8.3%)
+├─ Total PnL: 10475 pips
+├─ Average Win: 267.6 pips
+├─ Average Loss: -86.4 pips
+├─ Largest Win: 325 pips
+├─ Largest Loss: -100 pips
+├─ Risk-Reward Ratio: 1.50
+└─ Profit Factor: 6.20x
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+PERFORMANCE BY FIBONACCI LEVEL:
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+├─ Level 0.000: 72 trades | 61.1% WR | +10475 pips
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+PERFORMANCE BY DIRECTION:
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+├─ LONG: 72 trades | 61.1% WR | +10475 pips
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+DETAILED TRADE LISTING (ALL 72 TRADES):
+═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+
+Trade #1 | ✗ LOSS
+├─ Session: 2024-01-01 00:00:00 → 2024-01-01 00:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2050.25
+├─ Exit Price: 2049.75
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -50 pips
+
+Trade #2 | ✓ WIN
+├─ Session: 2024-01-01 01:00:00 → 2024-01-01 04:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2051.00
+├─ Exit Price: 2053.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #3 | ✓ WIN
+├─ Session: 2024-01-01 02:00:00 → 2024-01-01 05:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2052.00
+├─ Exit Price: 2054.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #4 | ✓ WIN
+├─ Session: 2024-01-01 03:00:00 → 2024-01-01 07:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2053.25
+├─ Exit Price: 2056.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +325 pips
+
+Trade #5 | ✓ WIN
+├─ Session: 2024-01-01 04:00:00 → 2024-01-01 07:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2054.00
+├─ Exit Price: 2056.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #6 | ✗ LOSS
+├─ Session: 2024-01-01 05:00:00 → 2024-01-01 05:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2055.50
+├─ Exit Price: 2054.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #7 | ✓ WIN
+├─ Session: 2024-01-01 06:00:00 → 2024-01-01 09:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2056.00
+├─ Exit Price: 2058.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #8 | ✗ LOSS
+├─ Session: 2024-01-01 07:00:00 → 2024-01-01 07:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2057.50
+├─ Exit Price: 2056.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #9 | ✓ WIN
+├─ Session: 2024-01-01 08:00:00 → 2024-01-01 11:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2058.00
+├─ Exit Price: 2060.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #10 | ✗ LOSS
+├─ Session: 2024-01-01 09:00:00 → 2024-01-01 09:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2059.50
+├─ Exit Price: 2058.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #11 | ✓ WIN
+├─ Session: 2024-01-01 10:00:00 → 2024-01-01 13:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2060.00
+├─ Exit Price: 2062.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #12 | ✗ LOSS
+├─ Session: 2024-01-01 11:00:00 → 2024-01-01 11:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2061.50
+├─ Exit Price: 2060.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #13 | ✓ WIN
+├─ Session: 2024-01-01 12:00:00 → 2024-01-01 15:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2062.00
+├─ Exit Price: 2064.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #14 | ✓ WIN
+├─ Session: 2024-01-01 13:00:00 → 2024-01-01 17:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2063.25
+├─ Exit Price: 2066.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +325 pips
+
+Trade #15 | ✓ WIN
+├─ Session: 2024-01-01 14:00:00 → 2024-01-01 17:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2064.00
+├─ Exit Price: 2066.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #16 | ✗ LOSS
+├─ Session: 2024-01-01 15:00:00 → 2024-01-01 15:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2065.50
+├─ Exit Price: 2064.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #17 | ✓ WIN
+├─ Session: 2024-01-01 16:00:00 → 2024-01-01 19:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2066.00
+├─ Exit Price: 2068.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #18 | ✗ LOSS
+├─ Session: 2024-01-01 17:00:00 → 2024-01-01 17:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2067.50
+├─ Exit Price: 2066.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #19 | ✓ WIN
+├─ Session: 2024-01-01 18:00:00 → 2024-01-01 21:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2068.00
+├─ Exit Price: 2070.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #20 | ✗ LOSS
+├─ Session: 2024-01-01 19:00:00 → 2024-01-01 19:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2069.50
+├─ Exit Price: 2068.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #21 | ✓ WIN
+├─ Session: 2024-01-01 20:00:00 → 2024-01-01 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2070.00
+├─ Exit Price: 2072.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #22 | ✗ LOSS
+├─ Session: 2024-01-01 21:00:00 → 2024-01-01 21:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2071.50
+├─ Exit Price: 2070.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #23 | ✓ WIN
+├─ Session: 2024-01-01 22:00:00 → 2024-01-02 01:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2072.00
+├─ Exit Price: 2074.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +225 pips
+
+Trade #24 | ✓ WIN
+├─ Session: 2024-01-01 23:00:00 → 2024-01-02 03:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2073.25
+├─ Exit Price: 2075.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #25 | ✗ LOSS
+├─ Session: 2024-01-02 00:00:00 → 2024-01-02 00:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2074.00
+├─ Exit Price: 2073.50
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -50 pips
+
+Trade #26 | ✗ LOSS
+├─ Session: 2024-01-02 01:00:00 → 2024-01-02 01:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2075.00
+├─ Exit Price: 2074.25
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #27 | ✗ LOSS
+├─ Session: 2024-01-02 02:00:00 → 2024-01-02 02:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2076.00
+├─ Exit Price: 2075.00
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #28 | ✗ LOSS
+├─ Session: 2024-01-02 03:00:00 → 2024-01-02 03:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2076.50
+├─ Exit Price: 2075.75
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #29 | ✓ WIN
+├─ Session: 2024-01-02 04:00:00 → 2024-01-02 07:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2077.00
+├─ Exit Price: 2079.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +225 pips
+
+Trade #30 | ✗ LOSS
+├─ Session: 2024-01-02 05:00:00 → 2024-01-02 05:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2078.00
+├─ Exit Price: 2077.25
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #31 | ✗ LOSS
+├─ Session: 2024-01-02 06:00:00 → 2024-01-02 06:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2079.00
+├─ Exit Price: 2078.00
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #32 | ✗ LOSS
+├─ Session: 2024-01-02 07:00:00 → 2024-01-02 07:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2080.00
+├─ Exit Price: 2079.25
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #33 | ✗ LOSS
+├─ Session: 2024-01-02 08:00:00 → 2024-01-02 08:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2081.00
+├─ Exit Price: 2080.00
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #34 | ✗ LOSS
+├─ Session: 2024-01-02 09:00:00 → 2024-01-02 09:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2081.50
+├─ Exit Price: 2080.75
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #35 | ✓ WIN
+├─ Session: 2024-01-02 10:00:00 → 2024-01-02 14:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2082.00
+├─ Exit Price: 2084.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #36 | ✗ LOSS
+├─ Session: 2024-01-02 11:00:00 → 2024-01-02 11:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2083.00
+├─ Exit Price: 2082.25
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #37 | ✗ LOSS
+├─ Session: 2024-01-02 12:00:00 → 2024-01-02 12:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2084.00
+├─ Exit Price: 2083.00
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -100 pips
+
+Trade #38 | ✗ LOSS
+├─ Session: 2024-01-02 13:00:00 → 2024-01-02 13:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2084.50
+├─ Exit Price: 2083.75
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #39 | ✓ WIN
+├─ Session: 2024-01-02 14:00:00 → 2024-01-02 18:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2085.00
+├─ Exit Price: 2087.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #40 | ✗ LOSS
+├─ Session: 2024-01-02 15:00:00 → 2024-01-02 15:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2086.00
+├─ Exit Price: 2085.25
+├─ Exit Reason: SL (Take Profit / Stop Loss / No Exit)
+└─ P&L: -75 pips
+
+Trade #41 | ✓ WIN
+├─ Session: 2024-01-02 16:00:00 → 2024-01-02 21:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2086.50
+├─ Exit Price: 2089.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +300 pips
+
+Trade #42 | ✓ WIN
+├─ Session: 2024-01-02 17:00:00 → 2024-01-02 21:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2087.00
+├─ Exit Price: 2089.50
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +250 pips
+
+Trade #43 | ✓ WIN
+├─ Session: 2024-01-02 18:00:00 → 2024-01-02 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2088.00
+├─ Exit Price: 2090.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #44 | ✓ WIN
+├─ Session: 2024-01-02 19:00:00 → 2024-01-03 00:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2088.50
+├─ Exit Price: 2091.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #45 | ✓ WIN
+├─ Session: 2024-01-02 20:00:00 → 2024-01-03 01:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2089.00
+├─ Exit Price: 2091.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #46 | ✓ WIN
+├─ Session: 2024-01-02 21:00:00 → 2024-01-03 03:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2090.00
+├─ Exit Price: 2092.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #47 | ✓ WIN
+├─ Session: 2024-01-02 22:00:00 → 2024-01-03 04:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2090.50
+├─ Exit Price: 2093.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #48 | ✓ WIN
+├─ Session: 2024-01-02 23:00:00 → 2024-01-03 05:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2091.00
+├─ Exit Price: 2093.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #49 | ✓ WIN
+├─ Session: 2024-01-03 00:00:00 → 2024-01-03 06:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2091.50
+├─ Exit Price: 2094.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #50 | ✓ WIN
+├─ Session: 2024-01-03 01:00:00 → 2024-01-03 07:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2092.00
+├─ Exit Price: 2094.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #51 | ✓ WIN
+├─ Session: 2024-01-03 02:00:00 → 2024-01-03 08:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2092.50
+├─ Exit Price: 2095.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #52 | ✓ WIN
+├─ Session: 2024-01-03 03:00:00 → 2024-01-03 09:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2093.00
+├─ Exit Price: 2095.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #53 | ✓ WIN
+├─ Session: 2024-01-03 04:00:00 → 2024-01-03 10:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2093.50
+├─ Exit Price: 2096.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #54 | ✓ WIN
+├─ Session: 2024-01-03 05:00:00 → 2024-01-03 11:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2094.00
+├─ Exit Price: 2096.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #55 | ✓ WIN
+├─ Session: 2024-01-03 06:00:00 → 2024-01-03 12:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2094.50
+├─ Exit Price: 2097.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #56 | ✓ WIN
+├─ Session: 2024-01-03 07:00:00 → 2024-01-03 13:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2095.00
+├─ Exit Price: 2097.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #57 | ✓ WIN
+├─ Session: 2024-01-03 08:00:00 → 2024-01-03 14:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2095.50
+├─ Exit Price: 2098.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #58 | ✓ WIN
+├─ Session: 2024-01-03 09:00:00 → 2024-01-03 15:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2096.00
+├─ Exit Price: 2098.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #59 | ✓ WIN
+├─ Session: 2024-01-03 10:00:00 → 2024-01-03 16:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2096.50
+├─ Exit Price: 2099.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #60 | ✓ WIN
+├─ Session: 2024-01-03 11:00:00 → 2024-01-03 17:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2097.00
+├─ Exit Price: 2099.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #61 | ✓ WIN
+├─ Session: 2024-01-03 12:00:00 → 2024-01-03 18:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2097.50
+├─ Exit Price: 2100.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #62 | ✓ WIN
+├─ Session: 2024-01-03 13:00:00 → 2024-01-03 19:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2098.00
+├─ Exit Price: 2100.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #63 | ✓ WIN
+├─ Session: 2024-01-03 14:00:00 → 2024-01-03 20:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2098.50
+├─ Exit Price: 2101.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #64 | ✓ WIN
+├─ Session: 2024-01-03 15:00:00 → 2024-01-03 21:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2099.00
+├─ Exit Price: 2101.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #65 | ✓ WIN
+├─ Session: 2024-01-03 16:00:00 → 2024-01-03 22:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2099.50
+├─ Exit Price: 2102.25
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #66 | ✓ WIN
+├─ Session: 2024-01-03 17:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2100.00
+├─ Exit Price: 2102.75
+├─ Exit Reason: TP (Take Profit / Stop Loss / No Exit)
+└─ P&L: +275 pips
+
+Trade #67 | ● OPEN
+├─ Session: 2024-01-03 18:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2100.50
+├─ Exit Price: 2102.75
+├─ Exit Reason: Open (Take Profit / Stop Loss / No Exit)
+└─ P&L: +225 pips
+
+Trade #68 | ● OPEN
+├─ Session: 2024-01-03 19:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2101.00
+├─ Exit Price: 2102.75
+├─ Exit Reason: Open (Take Profit / Stop Loss / No Exit)
+└─ P&L: +175 pips
+
+Trade #69 | ● OPEN
+├─ Session: 2024-01-03 20:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2101.50
+├─ Exit Price: 2102.75
+├─ Exit Reason: Open (Take Profit / Stop Loss / No Exit)
+└─ P&L: +125 pips
+
+Trade #70 | ● OPEN
+├─ Session: 2024-01-03 21:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2102.00
+├─ Exit Price: 2102.75
+├─ Exit Reason: Open (Take Profit / Stop Loss / No Exit)
+└─ P&L: +75 pips
+
+Trade #71 | ● OPEN
+├─ Session: 2024-01-03 22:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2102.50
+├─ Exit Price: 2102.75
+├─ Exit Reason: Open (Take Profit / Stop Loss / No Exit)
+└─ P&L: +25 pips
+
+Trade #72 | ● OPEN
+├─ Session: 2024-01-03 23:00:00 → 2024-01-03 23:00:00
+├─ Direction: LONG
+├─ Fibonacci Level Touched: 0.000
+├─ Entry Price: 2103.00
+├─ Exit Price: 2102.75
+├─ Exit Reason: Open (Take Profit / Stop Loss / No Exit)
+└─ P&L: -25 pips
+
